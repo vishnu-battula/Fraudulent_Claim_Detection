@@ -6,5 +6,7 @@ customer profiles and claim types, the company aims to predict which claims are 
 fraudulent before they are approved.
 
 Notebook Name : Fraudulent_Claim_Detection_Starter.ipynb
+
 PDF Name : Report Document.pdf
+
 PPT : PPT.pptx
